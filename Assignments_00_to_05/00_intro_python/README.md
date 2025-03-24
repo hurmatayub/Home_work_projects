@@ -1,7 +1,3 @@
-Markdown Live Preview
-Reset
-Copy
-
 # 🌟 Python Home Work Assignments by Hurmat Muhammad Ayub
 
 
