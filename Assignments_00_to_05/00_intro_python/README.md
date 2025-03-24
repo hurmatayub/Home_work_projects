@@ -5,16 +5,6 @@
 Welcome to my collection of beginner-friendly Python mini projects! 💻✨
 These projects are built using Google Colab and are designed to practice the basics of Python including user input, functions, arithmetic operations, and logic-building.
 
-📚 What You Will Find in This Repository
-Project No.	Project Title	Concepts Covered	Function Used
-01	Add Two Numbers	Input, Type Conversion, Sum	No
-02	Favorite Animal Echo	String Input, Print Statement	No
-03	Favorite Animal (Using Function)	Functions, Return, String Handling	✅ Yes
-04	Fahrenheit to Celsius Converter	Float Input, Math Formula	✅ Yes
-05	Age Riddle Solver	Variables, Expressions	No
-06	Age Riddle (Using Function)	Functions, Math Expressions	✅ Yes
-07	Triangle Perimeter Calculator	Float Input, Sum, Print Formatting	✅ Yes
-08	Square a Number	Float Input, Math Operation	✅ Yes
 🛠 Technologies Used
 Python 3
 Google Colab (for writing and testing code)
