@@ -7,16 +7,16 @@ These projects are built using **Google Colab** and are designed to practice the
 
 ## 📚 What You Will Find in This Repository
 
-| Project No. | Project Title                           | Concepts Covered                   | Function Used |
-|-------------|------------------------------------------|------------------------------------|----------------|
-| 01          | Add Two Numbers                          | Input, Type Conversion, Sum        | No             |
-| 02          | Favorite Animal Echo                     | String Input, Print Statement      | No             |
-| 03          | Favorite Animal (Using Function)         | Functions, Return, String Handling | ✅ Yes         |
-| 04          | Fahrenheit to Celsius Converter          | Float Input, Math Formula          | ✅ Yes         |
-| 05          | Age Riddle Solver                        | Variables, Expressions             | No             |
-| 06          | Age Riddle (Using Function)              | Functions, Math Expressions        | ✅ Yes         |
-| 07          | Triangle Perimeter Calculator            | Float Input, Sum, Print Formatting | ✅ Yes         |
-| 08          | Square a Number                          | Float Input, Math Operation        | ✅ Yes         |
+| Project No. | Project Title                           | Concepts Covered                   |
+|-------------|------------------------------------------|------------------------------------|
+| 01          | Add Two Numbers                          | Input, Type Conversion, Sum        |
+| 02          | Favorite Animal Echo                     | String Input, Print Statement      |
+| 03          | Favorite Animal (Using Function)         | Functions, Return, String Handling |
+| 04          | Fahrenheit to Celsius Converter          | Float Input, Math Formula          |
+| 05          | Age Riddle Solver                        | Variables, Expressions             |
+| 06          | Age Riddle (Using Function)              | Functions, Math Expressions        |
+| 07          | Triangle Perimeter Calculator            | Float Input, Sum, Print Formatting |
+| 08          | Square a Number                          | Float Input, Math Operation        |
 
 ---
 
